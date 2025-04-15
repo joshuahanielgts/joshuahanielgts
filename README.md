@@ -1,68 +1,91 @@
-<h1 align="center">Hi, I'm <span style="color:#39FF14;">J Joshua Haniel</span>!  
-Welcome to my 8-bit world!</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJiOWEwMTczNTM3Y2M0NDJmNDc5NTY4ODcyZGE1MWMwYTllNzkyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="200"/>
-</p>
+<div align="center">
 
----
+<!-- AI Pulse Animation -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-## **About Me**
-- **Vice President @ DNS Club**, SRM IST
-- **3rd Year | CSE CORE B | SRM Vadapalani**
-- Passionate about **Machine Learning** & **Full Stack Web Development**
-- Currently contributing to **SRM VDP's exam software**
-- Exploring the world of **finance-tech** with a touch of **AI**
-- Working on **2 patents** in EdTech and AI-based Cybersecurity
+# ⚡ J JOSHUA HANIEL ⚡
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%A4%96+AI%2FML+Innovator;%F0%9F%94%A5+Hackathon+Winner;%F0%9F%92%BB+CS+Engineer;%F0%9F%96%A5%EF%B8%8F+Problem+Solver;%F0%9F%A7%AA+OpenCV+Explorer)](https://git.io/typing-svg)
 
-## **My Current Arsenal**
-**Languages & Tools:**
-- HTML | CSS | JavaScript | TypeScript  
-- React | Next.js | Remix | Tailwind CSS  
-- Python | PHP | Ruby | Node.js | Express.js  
-- Firebase | Supabase | MySQL | PostgreSQL | MongoDB  
-- NumPy | Pandas | Matplotlib | TensorFlow
+<!-- Neon Divider -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
+</div>
 
-## **Projects & Builds**
-- **Vault AI:** Personalized finance advisor for startups and investors (React + Tailwind + LLM backend)
-- **FINTECH VAULT:** Dashboard & AI assistant for startup-investor matchmaking  
-- **SRM VDP Placement Test Software:** Centralized assessment platform  
-- **CSI Chennai Exam App:** Mobile platform for mock and actual exams  
-- **Hostel Gate Pass System:** Digital gatepass approval via Oracle DB  
-- **Asteroid Game:** Python-based arcade shooter just for fun!
+## 🧠 Neural Blueprint (About Me)
+```python
+class AIMLPioneer:
+    def __init__(self):
+        self.name = "J Joshua Haniel"
+        self.university = "SRM University, Chennai"
+        self.major = "Computer Science & Engineering"
+        self.year = "2nd Year"
+        self.cgpa = 7.54
+        self.status = "Tech Enthusiast | Hackathon Champion"
 
----
+    def recent_projects(self):
+        return ["AI Object detector", "V.A.U.L.T."]
 
-## **Achievements**
-- **Multiple tech event winner** – hackathons, codefests, and UI/UX wars
-- **2 patent submissions** in the field of Cybersecurity and EdTech AI
-- Vice President of DNS Club (2024–25)
-- Built SRM VDP's placement testing tool from scratch
+    def superpower(self):
+        return "Transforming real-world problems into AI-driven solutions"
+```
 
----
+<!-- Cyberpunk Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## **Connect with Me**
+## 🛠️ Tech Stack Fusion
 
-[![GitHub](https://img.shields.io/badge/GitHub-joshuahanielgts-181717?style=for-the-badge&logo=github)](https://github.com/joshuahanielgts)
-[![Website](https://img.shields.io/badge/Website-joshuahaniel.tech-0A0A0A?style=for-the-badge&logo=google-chrome)](https://joshuahaniel.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JJoshuaHaniel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joshuahaniel)
-[![Twitter](https://img.shields.io/badge/Twitter-@joshuahanielgts-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/joshuahanielgts)
+<div align="center">
 
----
+### 🌐 Web Dev & Frontend
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
-## **Stats & Retro Vibes**
+### 🧠 AI & ML Power
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuahanielgts&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuahanielgts&layout=compact&theme=tokyonight)
+### ⚙️ Dev Tools & Platforms
+[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#)
 
----
+</div>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlOGU1MzkxMjk1N2NiZWMyNjZkZTEyM2E0MTMxYjVmNDNhZDZhOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/DhstvI3zZ598Nb1rFf/giphy.gif" width="300"/>
-</p>
+<!-- Matrix Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
-<p align="center"><b>Press Start to Code!</b></p>
+## 📈 Contribution Stats
+
+<div align="center">
+
+<a href="https://github.com/joshuahanielgts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuahanielgts&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuahanielgts&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF"/>
+</a>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuahanielgts&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF00&fire=FF3D00&currStreakLabel=00FF00"/>
+
+</div>
+
+## 🌟 Innovation Footprints
+- 🛡️ Developed **AI Object detector** with real-time computer vision
+- 🧠 Exploring **AI/ML**, Computer Vision, and automation with Colab
+- 🚀 Hackathon Winner — MIT Chennai and SRM IST Vadapalani
+- 🧑‍💻 Always evolving, always building
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-joshua-haniel-09012006gtr/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuahanielgts/)
+
+</div>
+
+<!-- Final Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=Code.%20Innovate.%20Repeat.&fontSize=16&fontColor=00FF00&animation=twinkling&fontAlignY=80"/>
