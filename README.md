@@ -87,4 +87,4 @@ class AIMLPioneer:
 </div>
 
 <!-- Final Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=Code.%20Innovate.%20Repeat.&fontSize=16&fontColor=00FF00&animation=twinkling&fontAlignY=80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" width="50%"/>
