@@ -82,8 +82,7 @@ class AIMLPioneer:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](http://www.linkedin.com/in/joshuahanielgts)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuahanielgts/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/joshuahanielgts/)
 </div>
 
 <!-- Final Divider -->
