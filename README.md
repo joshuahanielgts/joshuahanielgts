@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- AI Pulse Animation -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500%" />
 
 # ⚡ J JOSHUA HANIEL ⚡
 
