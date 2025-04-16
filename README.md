@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- AI Pulse Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%" />
-
 # ⚡ J JOSHUA HANIEL ⚡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%A4%96+AI%2FML+Innovator;%F0%9F%94%A5+Hackathon+Winner;%F0%9F%92%BB+CS+Engineer;%F0%9F%96%A5%EF%B8%8F+Problem+Solver;%F0%9F%A7%AA+OpenCV+Explorer)](https://git.io/typing-svg)
+<!-- AI Pulse Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50%" />
+
+
 
 <!-- Neon Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
