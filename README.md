@@ -21,7 +21,6 @@ class AIMLPioneer:
         self.university = "SRM University, Chennai"
         self.major = "Computer Science & Engineering"
         self.year = "2nd Year"
-        self.cgpa = 7.54
         self.status = "Tech Enthusiast | Hackathon Champion"
 
     def recent_projects(self):
