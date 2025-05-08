@@ -34,12 +34,10 @@ class AIMLPioneer:
 ## 🎵 Now Playing on Amazon Music
 
 <div align="center">
-  <a href="https://music.amazon.in/profiles/xbwb2tmfwpum2i2zlhujypjkua">
+  <a href="https://music.amazon.in/albums/B09JBGB13M?marketplaceId=A3K6Y4MI8GDYMT&musicTerritory=IN&ref=dm_sh_cEQT3E5Sem1MZjRWYrWpM0Bgu&trackAsin=B09JBD5HNC">
     <img src="https://music.amazon.in/widgets/now-playing?user=your-username&theme=dark&size=large" alt="Amazon Music Now Playing" />
   </a>
 </div>
-
-*Note: Replace `your-username` with your actual Amazon Music username. Amazon Music's embedding capabilities are limited compared to Spotify. For a more dynamic integration, consider using third-party tools like [Embedly](https://embed.ly/provider/amazonmusic) or [Elfsight Audio Player Widget](https://elfsight.com/audio-player-widget/).*
 
 ---
 
