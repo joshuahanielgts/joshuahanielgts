@@ -34,7 +34,7 @@ class AIMLPioneer:
 ## 🎵 Now Playing on Amazon Music
 
 <div align="center">
-  <a href="https://music.amazon.in/user/your-username">
+  <a href="https://music.amazon.in/profiles/xbwb2tmfwpum2i2zlhujypjkua">
     <img src="https://music.amazon.in/widgets/now-playing?user=your-username&theme=dark&size=large" alt="Amazon Music Now Playing" />
   </a>
 </div>
